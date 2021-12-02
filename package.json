@@ -22,7 +22,8 @@
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "pdf2table": "0.0.2"
   },
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
